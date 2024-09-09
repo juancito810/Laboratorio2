@@ -1,0 +1,15 @@
+console.log(`the sum of values ($(numberA), $(numberB)) is $(result)`);
+
+caracteristeristicas importantes 
+permite una mayor flexibilidad para trabajar con cadenas de texto.
+Los template strings es la capacidad de interpolar variables y expresiones. Para incluir variables dentro de una cadena 
+Los template strings permiten crear cadenas multilínea sin necesidad de concatenar o usar caracteres de escape como \n. Se puede escribir la cadena en varias líneas de manera directa.
+
+Diferencias con comillas simples (') y dobles ("):
+En las comillas simples o dobles, no puedes interpolar variables o expresiones. Debe concatenar manualmente usando el operador +.
+
+Con comillas simples o dobles, no puedes escribir directamente en varias líneas. Debe usar el carácter de escape \n o concatenar líneas.
+
+Los template strings te permiten incluir expresiones complejas, mientras que con comillas simples o dobles esto no es posible sin concatenación manual.
+
+Los template strings ofrecen una forma mucho más flexible y dinámica para trabajar con cadenas en JavaScript, permitiendo la interpolación directa de variables y expresiones, así como la creación de cadenas multilínea, sin necesidad de concatenación.

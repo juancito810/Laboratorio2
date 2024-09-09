@@ -1,0 +1,23 @@
+TypeScript talvez te suene familiar, pero sin duda es muy relevante en cuanto al desarrollo web. Nombra algunas características importantes de TypeScript y que diferencia se tiene si lo comparamos con JavaScript. (Deberá de crearse un archivo con el nombre P-03.txt).
+
+Caracteristicas importantes de TypeScript
+
+Tipado Estático: TypeScript permite especificar tipos para variables, parámetros y valores de retorno de funciones
+Interfaces y Tipos: TypeScript permite definir interfaces y tipos personalizados para estructuras de datos.
+
+Clases y Herencia: Aunque JavaScript también tiene soporte para clases, TypeScript proporciona características adicionales
+ como modificadores de acceso (public, private, protected) y una sintaxis más clara para la herencia y la implementación de 
+ interfaces.
+
+Funciones de Tipo Genérico: TypeScript permite la creación de funciones y clases genéricas que pueden trabajar con múltiples tipos.
+Esto ofrece flexibilidad y reutilización de código.
+
+Chequeo de Errores en Tiempo de Compilación: TypeScript compila el código a JavaScript, y durante este proceso, el compilador
+puede detectar y reportar errores antes de que el código se ejecute. Esto es especialmente útil para grandes bases de código
+y equipos de desarrollo.
+ 
+ diferencia de typeScript y javascript
+ diferencia entre TypeScript y JavaScript es el sistema de tipos estáticos y las herramientas adicionales que TypeScript ofrece 
+ para mejorar la calidad del código y la experiencia de desarrollo. Aunque JavaScript es un lenguaje muy flexible y ampliamente 
+ utilizado, TypeScript proporciona una capa adicional de seguridad y robustez que puede ser especialmente beneficiosa en proyectos 
+ grandes y complejos.
